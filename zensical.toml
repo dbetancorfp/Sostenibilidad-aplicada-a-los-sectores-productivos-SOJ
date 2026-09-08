@@ -13,6 +13,7 @@ edit_uri = "edit/main/docs/"
 nav = [
   { "UD01 · La sostenibilidad y sus retos" = "index.md" },
   { "UD02 · Retos ambientales y sociales" = "ud02.md" },
+  { "UD03 · Sostenibilidad en lo profesional y personal" = "ud03.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
