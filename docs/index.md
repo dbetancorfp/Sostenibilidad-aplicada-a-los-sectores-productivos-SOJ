@@ -1,9 +1,5 @@
 # La sostenibilidad y sus retos
 
-> Documento de síntesis de la UD01 elaborado a partir de los materiales de la unidad
-> (*Tema 1*, *Tema 2*, *Unidad 1 – Ediciones Paraninfo*, *u1_SOJ_ASR*, *UT 1 Sostenibilidad y ASG*
-> e *Informe Integral de Sostenibilidad: De la Teoría a la Gestión ASG*).
-
 ## Índice
 
 1. [Concepto de sostenibilidad y desarrollo sostenible](#1-concepto-de-sostenibilidad-y-desarrollo-sostenible)
