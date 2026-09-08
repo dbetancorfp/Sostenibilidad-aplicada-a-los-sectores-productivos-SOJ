@@ -1,0 +1,20 @@
+# Credenciales — nunca subir
+.env
+.env.*
+
+# Salida de compilación de Zensical
+/site/
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
