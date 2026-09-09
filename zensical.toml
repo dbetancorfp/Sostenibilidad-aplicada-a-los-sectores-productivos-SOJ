@@ -17,6 +17,7 @@ nav = [
   { "UD04 · Economía verde y circular" = "ud04.md" },
   { "UD05 · Estrategias sostenibles aplicadas" = "ud05.md" },
   { "UD06 · El plan de sostenibilidad y otros documentos" = "ud06.md" },
+  { "Bibliografía y fuentes citadas" = "bibliografia.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
