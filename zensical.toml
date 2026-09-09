@@ -15,6 +15,7 @@ nav = [
   { "UD02 · Retos ambientales y sociales" = "ud02.md" },
   { "UD03 · Sostenibilidad en lo profesional y personal" = "ud03.md" },
   { "UD04 · Economía verde y circular" = "ud04.md" },
+  { "UD05 · Estrategias sostenibles aplicadas" = "ud05.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
