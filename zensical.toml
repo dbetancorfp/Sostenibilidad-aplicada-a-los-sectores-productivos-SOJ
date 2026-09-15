@@ -6,10 +6,6 @@ site_author = "David Betancor"
 
 copyright = "Material educativo &copy; 2026 David Betancor · Contenidos de terceros (ONU, Pacto Mundial) con fines didácticos"
 
-repo_url = "https://github.com/dbetancorfp/Sostenibilidad-aplicada-a-los-sectores-productivos-SOJ"
-repo_name = "dbetancorfp/Sostenibilidad-aplicada-a-los-sectores-productivos-SOJ"
-edit_uri = "edit/main/docs/"
-
 nav = [
   { "UD01 · La sostenibilidad y sus retos" = "index.md" },
   { "UD02 · Retos ambientales y sociales" = "ud02.md" },
@@ -20,7 +16,7 @@ nav = [
   { "Bibliografía y fuentes citadas" = "bibliografia.md" },
 ]
 
-# extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
 
 [project.theme]

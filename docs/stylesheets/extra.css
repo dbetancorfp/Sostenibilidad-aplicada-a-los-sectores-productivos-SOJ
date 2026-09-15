@@ -1,0 +1,6 @@
+/* Enlace a GitHub eliminado de la cabecera: el div queda vacío pero el
+   tema reserva su ancho fijo en escritorio, así que se oculta para que
+   el buscador y el selector de tema queden pegados al borde derecho. */
+.md-header__source {
+  display: none !important;
+}
